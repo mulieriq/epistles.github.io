@@ -1,0 +1,16 @@
+{
+    "name": "Shoppers",
+    "short_name": "Shoppers",
+    "icons": [
+     
+    ],
+    "start_url": "/views/html/shop.ejs",
+    "scope": ".",
+    "display": "standalone",
+    "orientation": "any",
+    "background_color": "#195b25",
+    "theme_color": "#3f51b5",
+    "description": "Shoppers",
+    "dir": "ltr",
+    "lang": "en-US"
+}
